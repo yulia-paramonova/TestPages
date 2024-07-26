@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="fr_FR" dataSources="ds7" resourceIdentifier="'cas-shared-default','CDAMIR','DAMIR','fr'" tableModifiedTimeStamp="2024-07-26T12:00:46.084Z">
+            <columns>
+                <column dataType="double" format="BEST12." label="Année et Mois de Traitement" xref="FLX_ANN_MOI"/>
+                <column dataType="double" format="BEST12." label="Région de l'Organisme de Liquidation à partir de 2015" xref="ORG_CLE_REG"/>
+                <column dataType="double" format="BEST12." label="Tranche d'Age Bénéficiaire au moment des soins" xref="AGE_BEN_SNDS"/>
+                <column dataType="double" format="BEST12." label="Région de Résidence du Bénéficiaire à partir de 2015" xref="BEN_RES_REG"/>
+                <column dataType="double" format="BEST12." label="Top Bénéficiaire CMU-C" xref="BEN_CMU_TOP"/>
+                <column dataType="double" format="BEST12." label="Qualité du Bénéficiaire" xref="BEN_QLT_COD"/>
+                <column dataType="double" format="BEST12." label="Sexe du Bénéficiaire" xref="BEN_SEX_COD"/>
+                <column dataType="double" format="BEST12." label="Discipline de Prestation Etb Exécutant" xref="DDP_SPE_COD"/>
+                <column dataType="double" format="BEST12." label="Catégorie Etb Exécutant" xref="ETE_CAT_SNDS"/>
+                <column dataType="double" format="BEST12." label="Région d'Implantation Etb Exécutant à partir de 2015" xref="ETE_REG_COD"/>
+                <column dataType="double" format="BEST12." label="Type Etb Exécutant" xref="ETE_TYP_SNDS"/>
+                <column dataType="double" format="BEST12." label="Région d'Implantation Etb Prescripteur à partir de 2015" xref="ETP_REG_COD"/>
+                <column dataType="double" format="BEST12." label="Catégorie Etb Prescripteur" xref="ETP_CAT_SNDS"/>
+                <column dataType="double" format="BEST12." label="Mode de Traitement Etb Exécutant" xref="MDT_TYP_COD"/>
+                <column dataType="double" format="BEST12." label="Mode de Fixation des Tarifs Etb Exécutant" xref="MFT_COD"/>
+                <column dataType="double" format="BEST12." label="Type de Prise en Charge Forfait Journalier" xref="PRS_FJH_TYP"/>
+                <column dataType="double" format="BEST12." label="Coefficient Global" xref="PRS_ACT_COG"/>
+                <column dataType="double" format="BEST12." label="Dénombrement" xref="PRS_ACT_NBR"/>
+                <column dataType="double" format="BEST12." label="Quantité" xref="PRS_ACT_QTE"/>
+                <column dataType="double" format="BEST12." label="Montant du Dépassement" xref="PRS_DEP_MNT"/>
+                <column dataType="double" format="BEST12." label="Montant de la Dépense" xref="PRS_PAI_MNT"/>
+                <column dataType="double" format="BEST12." label="Base de Remboursement" xref="PRS_REM_BSE"/>
+                <column dataType="double" format="BEST12." label="Montant Versé/Remboursé" xref="PRS_REM_MNT"/>
+                <column dataType="double" format="BEST12." label="Coefficient Global de la Prestation Préfiltré" xref="FLT_ACT_COG"/>
+                <column dataType="double" format="BEST12." label="Dénombrement de la Prestation Préfiltré" xref="FLT_ACT_NBR"/>
+                <column dataType="double" format="BEST12." label="Quantité de la Prestation Préfiltrée" xref="FLT_ACT_QTE"/>
+                <column dataType="double" format="BEST12." label="Montant de la Dépense de la Prestation Préfiltrée" xref="FLT_PAI_MNT"/>
+                <column dataType="double" format="BEST12." label="Montant du Dépassement de la Prestation Préfiltré" xref="FLT_DEP_MNT"/>
+                <column dataType="double" format="BEST12." label="Montant Versé/Remboursé Préfiltré" xref="FLT_REM_MNT"/>
+                <column dataType="double" format="BEST12." label="Année de Soins" xref="SOI_ANN"/>
+                <column dataType="double" format="BEST12." label="Mois de Soins" xref="SOI_MOI"/>
+                <column dataType="double" format="BEST12." label="Nature d'Assurance" xref="ASU_NAT"/>
+                <column dataType="double" format="BEST12." label="Nature de l'Accident du Travail" xref="ATT_NAT"/>
+                <column dataType="double" format="BEST12." label="Complément d'Acte" xref="CPL_COD"/>
+                <column dataType="double" format="BEST12." label="Type d'Enveloppe" xref="CPT_ENV_TYP"/>
+                <column dataType="double" format="BEST12." label="Nature du Destinataire de Règlement affiné" xref="DRG_AFF_NAT"/>
+                <column dataType="double" format="BEST12." label="Indicateur TAA Privé/Public" xref="ETE_IND_TAA"/>
+                <column dataType="double" format="BEST12." label="Motif d'Exonération du Ticket Modérateur" xref="EXO_MTF"/>
+                <column dataType="double" format="BEST12." label="Modulation du Ticket Modérateur" xref="MTM_NAT"/>
+                <column dataType="double" format="BEST12." label="Nature de Prestation" xref="PRS_NAT"/>
+                <column dataType="double" format="BEST12." label="Code Secteur Privé/Public" xref="PRS_PPU_SEC"/>
+                <column dataType="double" format="BEST12." label="Taux de Remboursement" xref="PRS_REM_TAU"/>
+                <column dataType="double" format="BEST12." label="Type de Remboursement" xref="PRS_REM_TYP"/>
+                <column dataType="double" format="BEST12." label="Code Qualificatif Parcours de Soins (sortie)" xref="PRS_PDS_QCP"/>
+                <column dataType="double" format="BEST12." label="Région du PS Exécutant à partir de 2015" xref="EXE_INS_REG"/>
+                <column dataType="double" format="BEST12." label="Nature d'Activité PS Exécutant" xref="PSE_ACT_SNDS"/>
+                <column dataType="double" format="BEST12." label="Catégorie de l' Exécutant" xref="PSE_ACT_CAT"/>
+                <column dataType="double" format="BEST12." label="Spécialité Médicale PS Exécutant" xref="PSE_SPE_SNDS"/>
+                <column dataType="double" format="BEST12." label="Statut Juridique PS Exécutant" xref="PSE_STJ_SNDS"/>
+                <column dataType="double" format="BEST12." label="Région du PS Prescripteur à partir de 2015" xref="PRE_INS_REG"/>
+                <column dataType="double" format="BEST12." label="Nature d'Activité PS Prescripteur" xref="PSP_ACT_SNDS"/>
+                <column dataType="double" format="BEST12." label="Catégorie du Prescripteur" xref="PSP_ACT_CAT"/>
+                <column dataType="double" format="BEST12." label="Spécialité Médicale PS Exécutant" xref="PSP_SPE_SNDS"/>
+                <column dataType="string" label="Statut Juridique PS Prescripteur" xref="PSP_STJ_SNDS"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>
