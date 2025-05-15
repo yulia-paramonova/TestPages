@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="fr_FR" dataSources="ds7" resourceIdentifier="'cas-shared-epic','cafrance','HRDATA_PREP','fr_FR'" tableModifiedTimeStamp="2025-05-13T08:36:45.717Z">
+            <columns>
+                <column dataType="double" format="BEST12." label="JobSatisfaction" xref="JobSatisfaction"/>
+                <column dataType="double" format="BEST12." label="WorkLifeBalance" xref="WorkLifeBalance"/>
+                <column dataType="double" format="BEST12." label="EnvironmentSatisfaction" xref="EnvironmentSatisfaction"/>
+                <column dataType="double" format="BEST12." label="DistanceFromHome" xref="DistanceFromHome"/>
+                <column dataType="double" format="BEST12." label="Age" xref="Age"/>
+                <column dataType="double" format="BEST12." label="MonthlyIncome" xref="MonthlyIncome"/>
+                <column dataType="string" label="Attrition" xref="Attrition"/>
+                <column dataType="string" label="Department" xref="Department"/>
+                <column dataType="string" label="Education" xref="Education"/>
+                <column dataType="string" label="EducationField" xref="EducationField"/>
+                <column dataType="string" label="MaritalStatus" xref="MaritalStatus"/>
+                <column dataType="string" label="NumCompaniesWorked" xref="NumCompaniesWorked"/>
+                <column dataType="string" label="YearsAtCompany" xref="YearsAtCompany"/>
+                <column dataType="string" label="Manager_Comments" xref="Manager_Comments"/>
+                <column dataType="string" label="ID" xref="ID"/>
+                <column dataType="double" format="BEST12." label="_TYPE_" xref="_TYPE_"/>
+                <column dataType="double" format="BEST12." label="_FREQ_" xref="_FREQ_"/>
+                <column dataType="string" label="addresses" xref="addresses"/>
+                <column dataType="string" label="Regions" xref="Regions"/>
+                <column dataType="string" label="ID1" xref="ID1"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>

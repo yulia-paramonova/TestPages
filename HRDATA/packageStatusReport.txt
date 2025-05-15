@@ -1,0 +1,45 @@
+Jauge - EnvironmentSatisfaction 1
+  Interactivity for this object is limited for the following reasons:
+    * Automatic actions are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - WorkLifeBalance 1
+  Interactivity for this object is limited for the following reasons:
+    * Automatic actions are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Boîte - Department 1
+  Interactivity for this object is limited for the following reasons:
+    * Automatic actions are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+    * This object type requires an advanced query.
+
+Histogramme - Age 1
+  Interactivity for this object is limited for the following reasons:
+    * Automatic actions are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+    * This object type requires an advanced query.
+
+Diagramme circulaire - Department 1
+  Interactivity for this object is limited for the following reasons:
+    * Automatic actions are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Barre - Attrition 1
+  Interactivity for this object is limited for the following reasons:
+    * Automatic actions are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Barre - Manager_Comments 1
+  Interactivity for this object is limited for the following reasons:
+    * The set of possible values for parameter "Rang" could not be derived. Parameters must be bound to data.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data item, filter, or rank that references a parameter.
+    * This object uses a rank.
+    * This object uses a data source with a derived column.
