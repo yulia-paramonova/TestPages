@@ -1,0 +1,57 @@
+#ve690 .TwoColorRamp {
+  fill-gradient-start-color : #cce8ff;
+  fill-gradient-end-color : #33A3FF;
+}
+#ve690 .TwoColorRamp1 {
+  fill-gradient-start-color : #cce8ff;
+  fill-gradient-end-color : #33A3FF;
+}
+#ve598 .paragraph1 {
+  white-space : pre-line;
+}
+#ve676 .paragraph1 {
+  font-size : 13.5pt;;
+}
+#ve999 .Table {
+  wrap-text : normal;
+}
+#ve1672 .Table {
+  wrap-text : normal;
+  display-opts : retainnewline;
+}
+#ve1679 .Table {
+  wrap-text : normal;
+  display-opts : retainnewline;
+}
+#ve1007 .infoBarTextBold {
+  font-weight : bold;
+}
+#ve1007 .infoBarTextUnderline {
+  text-decoration : underline;
+}
+#ve1007 .infoBarTextTitle {
+  font-style : italic;
+}
+#ve680 .CustomStyle1 {
+  background-color : #99d1ff;
+  color : #000000;
+}
+#ve684 .CustomStyle1 {
+  background-color : #99d1ff;
+  color : #000000;
+}
+#ve690 .GraphDataStyleDefault {
+  marker-color : #33A3FF;
+  text-color : #33A3FF;
+  fill-color : #33A3FF;
+  line-color : #33A3FF;
+}
+#ve690 .GraphDataStyle1 {
+  marker-color : #33A3FF;
+  text-color : #33A3FF;
+  fill-color : #33A3FF;
+  line-color : #33A3FF;
+}
+#ve690 .GraphDataStyle2 {
+  fill-color : #929292;
+}
