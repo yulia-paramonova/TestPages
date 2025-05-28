@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="fr_FR" dataSources="ds7" resourceIdentifier="'cas-shared-epic','cafrance','UE_INSURANCE_CUSTOMER_DATA_DVR','fr'" tableModifiedTimeStamp="2025-05-28T08:55:28.528Z">
+            <columns>
+                <column dataType="datetime" format="DATETIME0" label="Date de début de couverture" xref="BEGIN_COV_DT"/>
+                <column dataType="double" format="BEST12." label="Date de fin de couverture" xref="END_COV_DT"/>
+                <column dataType="double" format="BEST12." label="Date de l'annulation" xref="CANCELLATION_DT"/>
+                <column dataType="string" label="Client: code région" xref="CUST_REGION_CD"/>
+                <column dataType="double" format="BEST12." label="CUST_REGION_CD_MAP" xref="CUST_REGION_CD_MAP"/>
+                <column dataType="string" label="Numéro de contrat" xref="POLICY_ID"/>
+                <column dataType="double" format="BEST12." label="Exposition au risque" xref="POLICY_EXPOSURE_AMT"/>
+                <column dataType="double" format="BEST12." label="Montant du sinistre" xref="CLAIMS_AMT"/>
+                <column dataType="double" format="BEST12." label="Nombre de déclarations" xref="CLAIMS_CNT"/>
+                <column dataType="string" label="Catégorie de produit" xref="LINE_OF_BUSINESS_ID"/>
+                <column dataType="string" label="Couverture" xref="COVERAGE_CD"/>
+                <column dataType="double" format="BEST12." label="Année" xref="POLICY_UW_YEAR_NO"/>
+                <column dataType="string" label="Indicateur de nouvelle politique" xref="NEW_POLICY_FLG"/>
+                <column dataType="string" label="Client: code zone" xref="CUST_AREA_CD"/>
+                <column dataType="double" format="BEST12." label="Client: densité de population" xref="CUST_POP_DENSITY_AMT"/>
+                <column dataType="double" format="BEST12." label="Client: age" xref="CUST_AGE_AMT"/>
+                <column dataType="double" format="BEST12." label="Client: niveau bonus malus" xref="CUST_BONUS_MALUS_LEVEL_AMT"/>
+                <column dataType="string" label="Véhicule: type de carburant" xref="VEH_FUEL_TYPE_CD"/>
+                <column dataType="string" label="Véhicule: type" xref="VEH_MAKE_MODEL_CD"/>
+                <column dataType="double" format="BEST12." label="Véhicule: age" xref="VEH_AGE_AMT"/>
+                <column dataType="double" format="BEST12." label="Véhicule: puissance" xref="VEH_POWER_LEVEL_AMT"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>
