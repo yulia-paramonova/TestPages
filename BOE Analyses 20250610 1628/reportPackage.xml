@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reportPackage>
+    <dataLevel>offline</dataLevel>
+    <files>
+        <file contentKey="UVHQZ42UZHPUAHXT5ONKPBH7FSVU2UJV" name="report" type="report">
+            <links>
+                <link href="/report.xml" method="GET" rel="content" type="application/vnd.sas.report.content" uri="/report.xml"/>
+            </links>
+        </file>
+        <file contentKey="CKSSVXTY2MO2SI4LJ7B4Q3RHWG4ZVPS4" name="basems1.css" type="css">
+            <links>
+                <link href="/css/basems1.css" method="GET" rel="content" type="text/css" uri="/css/basems1.css"/>
+            </links>
+        </file>
+        <file contentKey="WF4O55PDGO3NWQLVQILVLVUCGGOCYK6Z" name="highcontrast.css" type="css">
+            <links>
+                <link href="/css/highcontrast.css" method="GET" rel="content" type="text/css" uri="/css/highcontrast.css"/>
+            </links>
+        </file>
+        <file contentKey="MU2BTY7NWJUKP47YH5N3BLTSAQOQGTVB" name="ms1.css" type="css">
+            <links>
+                <link href="/css/ms1.css" method="GET" rel="content" type="text/css" uri="/css/ms1.css"/>
+            </links>
+        </file>
+        <file contentKey="2DSXHZSDEREDFCZ2K4SVDDIE5P4MBUV3" name="ve3095.png" source="/files/files/4e0d29b7-ecca-4ecd-9316-97a384b33e46" type="image">
+            <links>
+                <link href="/image/ve3095.png" method="GET" rel="content" type="image/png" uri="/image/ve3095.png"/>
+            </links>
+        </file>
+        <file contentKey="GJJOUJ57TCQAIGVEQVUL37PAK4G6XSRW" name="dd3367.csv" type="data">
+            <links>
+                <link href="/data/dd3367.csv" method="GET" rel="content" type="text/csv" uri="/data/dd3367.csv"/>
+            </links>
+        </file>
+        <file contentKey="ZAKEQGZQCFUJWVJBO5C3LJSH7RISZJIE" name="dd13670.csv" type="data">
+            <links>
+                <link href="/data/dd13670.csv" method="GET" rel="content" type="text/csv" uri="/data/dd13670.csv"/>
+            </links>
+        </file>
+        <file contentKey="I3A6EMKKUEHBTAKQSJBV5VBBQVNU5JKA" name="dd13670index.csv" type="data">
+            <links>
+                <link href="/data/dd13670index.csv" method="GET" rel="content" type="text/csv" uri="/data/dd13670index.csv"/>
+            </links>
+        </file>
+        <file contentKey="7J23TVIWIWSD5EL4YW5RH7R2VGEATU6A" name="metadataSupplement" type="resource">
+            <links>
+                <link href="/metadataSupplement.xml" method="GET" rel="content" type="application/vnd.sas.report.metadata.supplement" uri="/metadataSupplement.xml"/>
+            </links>
+        </file>
+        <file contentKey="EKVRBMA2PGB5B3I2CU5DU5AHAHWFWECG" name="index.html" type="html">
+            <links>
+                <link href="/index.html" method="GET" rel="content" type="text/html" uri="/index.html"/>
+            </links>
+        </file>
+        <file contentKey="RTF3E5Q72TIH4UBLPOPPDQMJWX5POMPF" name="packageIndex.html" type="html">
+            <links>
+                <link href="/packageIndex.html" method="GET" rel="content" type="text/html" uri="/packageIndex.html"/>
+            </links>
+        </file>
+        <file contentKey="3QOSW4T4FGRFAWGGPX7PW5Y2Y5NJUQUM" name="viyafonts.css" type="css">
+            <links>
+                <link href="/css/viyafonts.css" method="GET" rel="content" type="text/css" uri="/css/viyafonts.css"/>
+            </links>
+        </file>
+        <file contentKey="XFOONS645BF4XEIR2JLONG6FCJOF4MNB" name="settings" type="resource">
+            <links>
+                <link href="/settings.json" method="GET" rel="content" type="application/vnd.sas.attributes" uri="/settings.json"/>
+            </links>
+        </file>
+    </files>
+    <formatLocale>fr</formatLocale>
+    <generatedTimeStamp>2025-06-10T12:44:04.198Z</generatedTimeStamp>
+    <id>c_dcb24ac3-c8f8-4ea8-b1ed-df124ef1bb99</id>
+    <links>
+        <link href="/reportPackages/packages/c_dcb24ac3-c8f8-4ea8-b1ed-df124ef1bb99" method="GET" rel="self" type="application/vnd.sas.report.package" uri="/reportPackages/packages/c_dcb24ac3-c8f8-4ea8-b1ed-df124ef1bb99"/>
+        <link href="/reportData/results?reportContentKey=6WEYW53YK7EF5ONQ3HQ6TA6CLUTWCGCI" method="POST" rel="requery" responseType="application/vnd.sas.report.results" type="application/vnd.sas.report.query.state" uri="/reportData/results?reportContentKey=6WEYW53YK7EF5ONQ3HQ6TA6CLUTWCGCI"/>
+        <link href="/reportData/jobs?reportContentKey=6WEYW53YK7EF5ONQ3HQ6TA6CLUTWCGCI" method="POST" rel="requeryJob" responseType="application/vnd.sas.report.data.job" type="application/vnd.sas.report.query.state" uri="/reportData/jobs?reportContentKey=6WEYW53YK7EF5ONQ3HQ6TA6CLUTWCGCI"/>
+    </links>
+    <locale>fr</locale>
+    <modifiedTimeStamp>2025-06-10T11:55:18Z</modifiedTimeStamp>
+    <reportElements>vi10836,vi3114</reportElements>
+    <size>840271</size>
+    <source>JSON:/reports/reports/c3993d2a-0bf2-47ca-92fc-5cbe0e4a6714</source>
+    <version>56</version>
+</reportPackage>
