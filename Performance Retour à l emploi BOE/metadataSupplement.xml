@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="en_US" dataSources="ds7" resourceIdentifier="'cas-shared-epic','cafrance','FT_BOE_JOIN','en_US'" tableModifiedTimeStamp="2025-06-10T14:41:50.998Z">
+            <columns>
+                <column dataType="string" label="Direction Générale" xref="DG"/>
+                <column dataType="string" label="DG_CODE_AURORE" xref="DG_CODE_AURORE"/>
+                <column dataType="string" label="Direction Régionale" xref="DR"/>
+                <column dataType="string" label="DR_CODE_AURORE" xref="DR_CODE_AURORE"/>
+                <column dataType="string" label="Direction Territoriale" xref="DT"/>
+                <column dataType="string" label="DT_CODE_AURORE" xref="DT_CODE_AURORE"/>
+                <column dataType="string" label="Agence" xref="Agence"/>
+                <column dataType="string" label="Agence_CODE_AURORE" xref="Agence_CODE_AURORE"/>
+                <column dataType="double" format="COMMA15.1" label="R_ Retour à l'emploi Evol% 2022_2024" xref="R_Evol_%ACO1H_22_24_"/>
+                <column dataType="double" format="COMMA15.1" label="R_ Ecoulement Evol% 2022_2024" xref="R_Evol_Ecoul_BOE_22_24"/>
+                <column dataType="double" format="PERCENT12.1" label="R_ BOE(%) Retour à l'emploi 2024" xref="R_%ACO1H24"/>
+                <column dataType="double" format="PERCENT12.1" label="R_ Ecoulement 2024 (%)" xref="R_Ecoulement_DEFM_ABC_BOE_2024"/>
+                <column dataType="double" format="PERCENT12.1" label="R_ DE longue durée (&gt; 18 mois) (%)" xref="R_%_DELD"/>
+                <column dataType="double" format="PERCENT12.1" label="R_ DE très longue durée (&gt; 24 mois) (%)" xref="R_%DETLD"/>
+                <column dataType="double" format="PERCENT12.1" label="BOE(%) parmi DE 2024" xref="%_BOE_DEFM_AB_24"/>
+                <column dataType="double" format="COMMA15." label="Nb moy. DE en parcours EXH" xref="Moy_NB_DE_en_EXH_BOE"/>
+                <column dataType="double" format="PERCENT12.1" label="DE(%) EXH" xref="%_EXH"/>
+                <column dataType="double" format="PERCENT12.1" label="DE(%) GLO" xref="%_GLO"/>
+                <column dataType="double" format="PERCENT12.1" label="DE(%) GUI" xref="%_GUI"/>
+                <column dataType="double" format="PERCENT12.1" label="DE(%) REN" xref="%_REN"/>
+                <column dataType="double" format="PERCENT12.1" label="DE(%) en Intensif(Accepté)" xref="%_SD_accepté"/>
+                <column dataType="double" format="PERCENT12.1" label="DE(%) SUI" xref="%_SUI"/>
+                <column dataType="double" format="COMMA15." label="Nb consult. Portail (6 derniers mois)" xref="Métrologie_MSTR"/>
+                <column dataType="double" format="PERCENT12.1" label="Entrées(%) en prestation" xref="%_Entrées_en_prestation_/_BOE"/>
+                <column dataType="double" format="COMMA15." label="Entretiens" xref="ratio_Entretiens_/_BOE"/>
+                <column dataType="double" format="PERCENT12." label="Diagnostic partagé (FT+Cap Emploi) (%)" xref="ratio_Entre_Diag_partagé_/_BOE"/>
+                <column dataType="double" format="COMMA15." label="Mise en Contact" xref="Ration_MEC_offre/_BOE"/>
+                <column dataType="double" format="PERCENT12.1" label="Promotion De Profil (%)" xref="%_PDP_/_BOE"/>
+                <column dataType="double" format="PERCENT12.1" label="Entrées en Formation (%)" xref="%_AIS_/_BOE"/>
+                <column dataType="double" format="PERCENT12.1" label="Stage immersion decouverte en entreprise (%)" xref="%_NB_PMSMP_/BOE"/>
+                <column dataType="double" format="COMMA15." label="Portefeuille EXH (med)" xref="EXH_med"/>
+                <column dataType="double" format="COMMA15." label="Portefeuille GLO (med)" xref="GLO_med"/>
+                <column dataType="double" format="COMMA15." label="Portefeuille GUI (med)" xref="GUI_med"/>
+                <column dataType="double" format="COMMA15." label="Portefeuille REN (med)" xref="REN_med"/>
+                <column dataType="double" format="COMMA15." label="Portefeuille SUI (med)" xref="SUI_med"/>
+                <column dataType="double" format="COMMA15." label="Conseillé Spécialisé (0/1)" xref="Top_GUI_DTH"/>
+                <column dataType="double" format="PERCENT12." label="Evenement Emploi par BOE (%)" xref="Ration_MEE_BOE/_BOE"/>
+                <column dataType="double" format="PERCENT12." label="nb (%) Offre dédié BOE à comp. égal" xref="ratio_postes_Comp_egal/BOE"/>
+                <column dataType="double" format="COMMA15.2" label="Atteinte obj ACO1H DR" xref="Atteinte Obj ACO1H DR"/>
+                <column dataType="double" format="COMMA15.2" label="Atteinte obj ACO2H DR" xref="Atteinte Obj ACO2H DR"/>
+                <column dataType="double" format="COMMA15." label="ACO1_2022" xref="ACO1_2022"/>
+                <column dataType="double" format="COMMA15." label="ACO1H_2022" xref="ACO1H_2022"/>
+                <column dataType="double" format="PERCENT12.1" label="%ACO1H22" xref="%ACO1H22"/>
+                <column dataType="double" format="PERCENT12.1" label="%_BOE_DEFM_AB_22" xref="%_BOE_DEFM_AB_22"/>
+                <column dataType="double" format="PERCENT12.1" label="Ecoulement_DEFM_ABC_BOE_2022" xref="Ecoulement_DEFM_ABC_BOE_2022"/>
+                <column dataType="double" format="COMMA15." label="ACO1_2024" xref="ACO1_2024"/>
+                <column dataType="double" format="COMMA15." label="ACO1H_2024" xref="ACO1H_2024"/>
+                <column dataType="double" format="BEST12." label="ACO1H" xref="ACO1H"/>
+                <column dataType="double" format="BEST12." label="ACO2H" xref="ACO2H"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>
