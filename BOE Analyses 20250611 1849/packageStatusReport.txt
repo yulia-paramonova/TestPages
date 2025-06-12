@@ -1,0 +1,71 @@
+Régression linéaire - R_ BOE(%) Retour à l'emploi 2024 1
+  Interactivity for this object is limited for the following reasons:
+    * Actions for composite objects are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Arbre de décision - R_ BOE(%) Retour à l'emploi 2024 1
+  Interactivity for this object is limited for the following reasons:
+    * Actions for composite objects are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - Entretiens 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - Stage immersion decouverte en entreprise (%) 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - R_ BOE(%) Retour à l'emploi 2024 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - Promotion De Profil (%) 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - nb (%) Offre dédié BOE à comp. égal 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - Nb moy. DE en parcours EXH 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - Portefeuille GUI (med) 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - R_ DE longue durée (> 18 mois) (%) 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - R_ DE très longue durée (> 24 mois) (%) 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.
+
+Jauge - R_ Ecoulement 2024 (%) 1
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 1542240 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data source with a derived column.

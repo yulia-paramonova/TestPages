@@ -1,0 +1,242 @@
+#ve15774 .paragraph1 {
+  text-align : right;
+}
+#ve14741 .paragraph2 {
+  text-align : center;
+}
+#ve14741 .paragraph1 {
+  text-align : center;
+}
+#ve9121 .styleForTitle_span1 {
+  font-weight : bold;
+  font-size : 10pt;
+}
+#ve4766 .infoBarTextUnderline {
+  text-decoration : underline;
+}
+#ve12503 .infoBarTextTitle {
+  font-style : italic;
+}
+#ve10912 .tableColumnbi3122 {
+  width : 150px;
+}
+#ve10912 .tableColumnbi3121 {
+  fill-gradient-start-color : #7DC3FC;
+  fill-gradient-end-color : #E99596;
+}
+#ve22594 .tableColumnbi22599 {
+  width : 152px;
+}
+#ve22594 .tableColumnbi22598 {
+  width : 116px;
+}
+#ve12508 .GraphSkin {
+  data-skin : FLAT;
+}
+#ve3316 .TwoColorRamp {
+  fill-gradient-start-color : #cce8ff;
+  fill-gradient-end-color : #33A3FF;
+}
+#ve3100 .span1 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve3316 .TwoColorRamp1 {
+  fill-gradient-start-color : #cce8ff;
+  fill-gradient-end-color : #33A3FF;
+}
+#ve3100 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve4766 .infoBarTextTitle {
+  font-style : italic;
+}
+#ve12503 .infoBarTextUnderline {
+  text-decoration : underline;
+}
+#ve15766 .tableColumnbi15771 {
+  width : 417px;
+}
+#ve14730 .span1 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve9950 .span3 {
+  font-weight : bold;
+}
+#ve578 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve14730 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve578 .span1 {
+  color : #2470AD;
+  font-style : italic;
+}
+#ve4766 .infoBarTextBold {
+  font-weight : bold;
+}
+#ve9950 .span1 {
+  font-weight : bold;
+  font-size : 12pt;
+}
+#ve9950 .paragraph2 {
+  text-align : left;
+}
+#ve9950 .span2 {
+  font-weight : bold;
+}
+#ve9950 .paragraph1 {
+  text-align : left;
+}
+#ve14741 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve14741 .span1 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve20854 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve20854 .span1 {
+  color : #2470AD;
+  font-style : italic;
+}
+#ve14730 .paragraph1 {
+  text-align : center;
+}
+#ve14730 .paragraph2 {
+  text-align : center;
+}
+#ve3100 .paragraph1 {
+  text-align : center;
+}
+#ve3100 .paragraph2 {
+  text-align : center;
+}
+#ve9964 .paragraph2 {
+  text-align : center;
+}
+#ve9964 .paragraph1 {
+  text-align : center;
+}
+#ve9964 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve20848 .span1 {
+  color : #2470AD;
+  font-style : italic;
+}
+#ve3112 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve9964 .span1 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve20848 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve3112 .span1 {
+  color : #2470AD;
+  font-style : italic;
+}
+#ve20860 .span1 {
+  color : #2470AD;
+  font-style : italic;
+}
+#ve14713 .paragraph1 {
+  text-align : center;
+}
+#ve15774 .span2 {
+  color : #2C8AD6;
+}
+#ve14713 .paragraph2 {
+  text-align : center;
+}
+#ve22594 .ReportElementContainer {
+  padding : 8px;
+}
+#ve15774 .span1 {
+  color : #2C8AD6;
+}
+#ve14713 .span1 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve14713 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+:root {
+  --custom-color-6 : var(--report-background-color);
+  --custom-color-2 : color-mod(var(--custom-color-1) lightness(+ 40%));
+  --custom-color-3 : color-mod(var(--custom-color-1) lightness(- 20%));
+  --custom-color-4 : var(--report-neutral-color);
+  --custom-color-5 : #FFFFFF;
+  --custom-color-1 : var(--report-data-color-6);
+}
+#ve22594 .tableColumnbi22600 {
+  width : 148px;
+}
+#ve12503 .infoBarTextBold {
+  font-weight : bold;
+}
+#ve20860 .span2 {
+  color : #2470AD;
+  font-weight : bold;
+}
+#ve25673 .Table {
+  wrap-text : normal;
+  display-opts : retainnewline;
+}
+#ve25676 .Table {
+  wrap-text : normal;
+  display-opts : retainnewline;
+}
+#ve25679 .Table {
+  wrap-text : normal;
+  display-opts : retainnewline;
+}
+#ve3224 .paragraph1 {
+  white-space : pre-line;
+}
+#ve3302 .paragraph1 {
+  font-size : 13.5pt;;
+}
+#ve25688 .Table {
+  wrap-text : normal;
+}
+#ve3306 .CustomStyle1 {
+  background-color : #99d1ff;
+  color : #000000;
+}
+#ve3310 .CustomStyle1 {
+  background-color : #99d1ff;
+  color : #000000;
+}
+#ve3316 .GraphDataStyleDefault {
+  marker-color : #33A3FF;
+  text-color : #33A3FF;
+  fill-color : #33A3FF;
+  line-color : #33A3FF;
+}
+#ve3316 .GraphDataStyle1 {
+  marker-color : #33A3FF;
+  text-color : #33A3FF;
+  fill-color : #33A3FF;
+  line-color : #33A3FF;
+}
+#ve3316 .GraphDataStyle2 {
+  fill-color : #929292;
+}
